@@ -132,6 +132,7 @@ section .title::after{
     font-size: 23px;
     cursor: pointer;
     display: none;
+    margin-right: 60px;
 }
 .scroll-up-btn{
     position: fixed;
